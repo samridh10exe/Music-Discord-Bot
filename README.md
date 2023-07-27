@@ -36,7 +36,9 @@ cd Music-Discord-Bot
 
 
 ```npm install```
-```npm install discord.js```
+```
+npm install discord.js
+```
 ```npm install ytdl-core ffmpeg-static```
 ```npm install node-spotify-api```
 ```npm install spotify-url-info```
