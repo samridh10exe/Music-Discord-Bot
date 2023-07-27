@@ -20,7 +20,6 @@ This Music Discord Bot is a simple and customizable music bot for Discord, allow
 - Discord.js (v11.x) [Note: Please verify the correct version for your bot]
 
 ## Installation
-
 1. Clone the repository:
 
 ```
@@ -37,6 +36,11 @@ cd Music-Discord-Bot
 
 ```
 npm install
+npm install discord.js
+npm install ytdl-core ffmpeg-static
+npm install node-spotify-api
+npm install spotify-url-info
+
 ```
 
 4. Set up the configuration:
