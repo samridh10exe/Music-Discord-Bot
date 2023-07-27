@@ -34,14 +34,13 @@ cd Music-Discord-Bot
 
 3. Install the required dependencies:
 
-```
-npm install
-npm install discord.js
-npm install ytdl-core ffmpeg-static
-npm install node-spotify-api
-npm install spotify-url-info
 
-```
+```npm install```
+```npm install discord.js```
+```npm install ytdl-core ffmpeg-static```
+```npm install node-spotify-api```
+```npm install spotify-url-info```
+
 
 4. Set up the configuration:
 
