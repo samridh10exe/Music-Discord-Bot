@@ -5,7 +5,7 @@
 
 ## Description
 
-Your Music Discord Bot is a simple and customizable music bot for Discord, allowing users to stream music from both YouTube and Spotify in voice channels.
+This Music Discord Bot is a simple and customizable music bot for Discord, allowing users to stream music from both YouTube and Spotify in voice channels.
 
 ## Features
 
