@@ -1,0 +1,8 @@
+{
+    "token": "YOUR_DISCORD_BOT_TOKEN",
+    "prefix": "!",
+    "youtubeAPIKey": "YOUR_YOUTUBE_API_KEY",
+    "spotifyToken": "YOUR_SPOTIFY_API_TOKEN",
+    "spotifySecret": "YOUR_SPOTIFY_API_SECRET"
+  }
+  
