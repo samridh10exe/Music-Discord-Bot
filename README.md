@@ -34,13 +34,6 @@ cd Music-Discord-Bot
 
 3. Install the required dependencies:
 
-
-```
-
-npm install
-
-```
-
 ```
 
 npm install discord.js
